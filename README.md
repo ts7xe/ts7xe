@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ts7xe/ts7xe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1><code>&lt;ts7xe&gt;Andrey&lt;/ts7xe&gt;</code></h1>
 
-Here are some ideas to get you started:
+```python
+bio = "backend developer, music lover"
+hobbies = ["programming", "drawing"]
+languages = ["go", "python"]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://matrix.to/#/@ts7xe:matrix.org"><img alt="Matrix" src="https://img.shields.io/badge/Matrix-white?logo=matrix&logoColor=fff&style=flat-square&color=black"></img></a>
+<a href="https://github.com/tirch"><img alt="Previous GitHub" src="https://img.shields.io/badge/Previous_GitHub-white?logo=github&logoColor=fff&style=flat-square&color=black"></img></a>
+
+
+</div>
